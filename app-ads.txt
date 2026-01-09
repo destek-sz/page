@@ -1,0 +1,32 @@
+# App-ads.txt dosyası - Google Play Store Doğrulaması için Gerekli
+# Reklam ağlarının uygulamada gösterim yapmasına izin veren güvenli yapılandırma
+
+# Google Mobile Ads (AdMob) - Ana reklam ağı
+google.com, pub-7559298276463097, DIRECT, f08c47fec0942f
+# Facebook Audience Network
+facebook.com, xxxxxxxxxxxxxxxx, DIRECT, c3e20eae3a15ab34
+
+# Unity Ads
+unityads.unity3d.com, xxxxxxxxxxxxxxxx, DIRECT, 96cabb49707144be
+
+# AppLovin
+applovin.com, xxxxxxxxxxxxxxxx, DIRECT, 5f67b29502335e42
+
+# IronSource
+supersonic.com, xxxxxxxxxxxxxxxx, DIRECT, 6c8d5f95897a5a3b
+
+# Vungle
+vungle.com, xxxxxxxxxxxxxxxx, DIRECT, 0ac6b948bdc940ab
+
+# Tapjoy
+tapjoy.com, xxxxxxxxxxxxxxxx, DIRECT, 3f3812f2ecf01efd
+
+# Mopub
+mopub.com, xxxxxxxxxxxxxxxx, DIRECT, xxxxxxxxxxxxxxxx
+
+# IMPORTANT: Replace the X's (xxxxxxxxxxxxxxxx) with your actual publisher IDs from each ad network
+# You need to:
+# 1. Sign up for each ad network (or the ones you use)
+# 2. Get your Publisher ID from their console
+# 3. Replace the X's with your actual Publisher IDs
+
