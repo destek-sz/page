@@ -30,4 +30,4 @@ mopub.com, xxxxxxxxxxxxxxxx, DIRECT, xxxxxxxxxxxxxxxx
 # 2. Get your Publisher ID from their console
 # 3. Replace the X's with your actual Publisher IDs
 
-google-site-verification: googleb297f6afcccb16ee.html
+
